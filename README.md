@@ -56,17 +56,6 @@ The program can be downloaded from the gitlab
 repository.
 
 
-## Authors
-
-Contributors names and contact info
-
-* Nwaehi, Richy U (rn23374@essex.ac.uk)
-* William Stanley (ws22237@essex.ac.uk)
-* Elsadig Ayad (ae23434@essex.ac.uk)
-* Charles, Freeth (cf21491@essex.ac.uk)
-* Yomo, Randy (ry24123@essex.ac.uk)
-* Pillai Gautam (gp24615@essex.ac.uk)
-
 ## Version History
 
 * 0.2
