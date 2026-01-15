@@ -50,7 +50,7 @@ in the arduino IDE.
 * The OS version needs to be a Windows 10 and above
 
 
-### Installing
+### Installation
 
 The program can be downloaded from the gitlab
 repository.
