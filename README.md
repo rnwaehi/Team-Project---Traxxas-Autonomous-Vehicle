@@ -110,10 +110,6 @@ CE201-Team Project Challenge\AA-Main Code Files
 * 0.1
     * Initial Release
 
-## License
----
-This project is licensed under the GNU AFFERO GENERAL PUBLIC LICENSE - See the LICENSE link for more details [LICENSE] https://rebrand.ly/7mlu0pj
-
 ## Acknowledgments
 ---
 Arduino Libaries Acknowledgments
