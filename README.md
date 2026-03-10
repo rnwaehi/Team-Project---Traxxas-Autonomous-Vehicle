@@ -25,7 +25,8 @@ In this section, i will be showing you a block diagram on how on the software an
 
 The block diagram below illustrates the intricate design of the fire detection mechanism. It highlights the how the software components actually work.
 
-![alt text](Software_Architecture.png)
+![Software Architecture](https://i.ibb.co/qLknkWh4/Software_Architecture.png)
+
 
 **1.ESP32-CAM:** Firstly, we have the ESP32-CAM which is responsible for providing live video footage for the area we are monitoring for fires.
 
@@ -44,7 +45,7 @@ The block diagram below illustrates the intricate design of the fire detection m
 The block diagram below shows all the hardware devices that were implemented in the
 product design
 
-![alt text](Hardware_Architecture.png)
+![Hardware Architecture](https://i.ibb.co/qLknkWh4/Hardware_Architecture.png)
 
 
 
@@ -128,10 +129,4 @@ Arduino Libaries Acknowledgments
 - DHT-v1.4.6 Sensor Library By Adafruit
 - BluetoothSerial-v1.1.0 Library By Henry Abrahamsen
 - LiquidCrystalI2C-v1.1.2 Library By Frank De Brabander
-
-Here are the snippets of fire detection program that we have.
-
-![alt text](Python_ESP32xCounter_Function.png)
-
-![alt text](Python_Main_Function.png)
 
