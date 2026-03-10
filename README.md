@@ -25,7 +25,7 @@ In this section, i will be showing you a block diagram on how on the software an
 
 The block diagram below illustrates the intricate design of the fire detection mechanism. It highlights the how the software components actually work.
 
-![Software Architecture](https://i.ibb.co/qLknkWh4/Software_Architecture.png)
+![Software Architecture](https://i.ibb.co/B2c5SnzD/Software-Architecture.png)
 
 
 **1.ESP32-CAM:** Firstly, we have the ESP32-CAM which is responsible for providing live video footage for the area we are monitoring for fires.
@@ -92,15 +92,6 @@ Step 2. Then we paste in the path where the python program is located
 CE201-Team Project Challenge\AA-Main Code Files
 \ESP32-CAM_Fire_Detection_Updated.py"
 ```
-
-## Authors
----
-* Nwaehi, Richy U (rn23374@essex.ac.uk)
-* Yomo, Randy (ry24123@essex.ac.uk)
-* William Stanley (ws22237@essex.ac.uk)
-* Elsadig Ayad (ae23434@essex.ac.uk)
-* Charles, Freeth (cf21491@essex.ac.uk)
-
 ## Version History
 ---
 * 0.4
